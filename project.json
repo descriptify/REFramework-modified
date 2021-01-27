@@ -3,11 +3,11 @@
   "description": "UiPath REFramework Template",
   "main": "Main.xaml",
   "dependencies": {
-    "DGSBStandardLibrary": "[2.1.0]",
-    "UiPath.Excel.Activities": "[2.9.3]",
-    "UiPath.Mail.Activities": "[1.9.3]",
-    "UiPath.System.Activities": "[20.10.1]",
-    "UiPath.UIAutomation.Activities": "[20.10.6]"
+    "DGSBStandardLibrary": "[2.3.0]",
+    "UiPath.Excel.Activities": "[2.10.0-preview]",
+    "UiPath.Mail.Activities": "[1.10.0-preview]",
+    "UiPath.System.Activities": "[20.10.3]",
+    "UiPath.UIAutomation.Activities": "[20.4.3]"
   },
   "webServices": [],
   "schemaVersion": "4.0",
