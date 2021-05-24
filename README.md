@@ -1,3 +1,20 @@
+### Modified ReFrameWork Template ###
+This framework is based on UiPath's REFramework template (https://github.com/UiPath/ReFrameWork/)
+
+### Change log ###
+- Limited package dependencies to 4 packages (Excel, Mail, System, UiAutomation)
+- Deleted GetTransactionData.xaml, CloseAllApplications.xaml and GetAppCredentials.xaml from the 'Framework' folder
+- Added retry loop in InitAllApplications.xaml
+- Added a loop in KillAllProcesses.xaml to provide multiple applications to kill
+- Terminated process if unhandled system error in 'End Process' state
+- Included option for logging warnings in queue items (as input to SetTransactionStatus.xaml)
+- 
+
+
+
+
+
+
 ### Documentation is included in the Documentation folder ###
 
 [ReFrameWork Documentation](https://github.com/UiPath/ReFrameWork/blob/master/Documentation/REFramework%20documentation.pdf)

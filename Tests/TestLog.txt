@@ -1,1 +1,8 @@
 ﻿
+=================================================
+Starting new set of 8 tests at 09:43:14  PM, 23/05/2021
+=================================================
+09:43:17 PM	Test 1 PASS  ---> Framework\InitAllSettings.xaml
+09:43:18 PM	Test 2 PASS  ---> Framework\InitAllApplications.xaml
+09:43:18 PM	Test 3 PASS  ---> Framework\CloseAllApplications.xaml
+09:43:19 PM	Test 4 FAIL  ---> Framework\CloseAllApplications.xaml ---> AppEx
