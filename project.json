@@ -1,6 +1,6 @@
 {
-  "name": "UiPath_REFrameWork_Adapted",
-  "description": "UiPath REFramework Template",
+  "name": "UiPath_REFrameWork_Trim",
+  "description": "UiPath REFramework Template trimmed by removing excess workflows, and polished for better exception handling",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
